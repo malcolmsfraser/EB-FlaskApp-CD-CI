@@ -8,6 +8,7 @@ phases:
       - pip install --upgrade pip&&\
       - pip install -r requirements.txt
       - pip install awsebcli --upgrade
+      - make lint
   build:
     commands:
       - eb init -p python-3.7 flask-app --region us-east-1
