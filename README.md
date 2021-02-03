@@ -19,11 +19,15 @@ In the Cloud9 terminal run the following:
 >python3 -m venv ~/.venv 
 >source ~/.venv/bin/activate
 >```
+>Install dependencies
+>```{bash}
+>make install
+>```
 >Make sure the flask application is working properly
 >```{bash}
 >python application.py
 >```
->Install requirements, lint, setup elastic beanstalk and deploy application
+>Lint, setup elastic beanstalk and deploy application
 >```{bash}
 >make create_all
 >```
