@@ -1,6 +1,9 @@
 # EB-Flask-ContinuousDelivery
 Source code for a continuously delivered Flask Application on Amazon Web Services. The application is build and deployed using Elastic Beanstalk and the continuous deployment is coordinated with CodeBuild.
 
+**Demo Video**  
+[![alt text](https://github.com/malcolmsfraser/ml-gcp/blob/main/CDproject-thumbnail.jpg)](https://youtu.be/cK-KkWaCG9Y?t=90)  
+[[See this setup on GCP]](https://github.com/malcolmsfraser/ml-gcp)
 ### Setting up this application on your own (in AWS Cloud9) 
 
 In the Cloud9 terminal run the following:
