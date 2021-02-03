@@ -32,7 +32,7 @@ In the Cloud9 terminal run the following:
 
 Create a new repository on GitHub
 
-In the Cloud Shell run the following:
+In the Cloud9 termimal run the following:
 
 >If needed: create new ssh keys:
 >```{bash}
