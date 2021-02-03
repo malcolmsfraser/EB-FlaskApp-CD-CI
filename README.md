@@ -31,6 +31,7 @@ In the Cloud9 terminal run the following:
 >```{bash}
 >make create_all
 >```
+>*Note this command creates the EB environment in the us-east-1 region. If you this needs to be different feel free to edit the Makefile*
 
 ### Setting up continuous delivery to your own repository
 
