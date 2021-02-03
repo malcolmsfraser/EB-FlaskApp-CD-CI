@@ -9,9 +9,6 @@ Source code for a continuously delivered Flask Application on Amazon Web Service
 In the Cloud9 terminal run the following:
 
 >Set the new project
->```{bash}
->gcloud config set project $GOOGLE_CLOUD_PROJECT
->```
 >Clone this repository and set it as the working directory
 >```{bash}
 >git clone https://github.com/malcolmsfraser/EB-FlaskApp-CD-CI.git
