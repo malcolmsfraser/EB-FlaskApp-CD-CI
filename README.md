@@ -30,7 +30,7 @@ In the Cloud9 terminal run the following:
 
 ### Setting up continuous delivery to your own repository
 
-Create a new repository on GitHub
+Create a new, empty repository on GitHub
 
 In the Cloud9 termimal run the following:
 
